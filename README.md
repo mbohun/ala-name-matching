@@ -1,3 +1,4 @@
+### ala-name-matching   [![Build Status](https://travis-ci.org/mbohun/ala-name-matching.svg?branch=master)](https://travis-ci.org/mbohun/ala-name-matching)
 ### ala-name-matching   [![Build Status](https://travis-ci.org/AtlasOfLivingAustralia/ala-name-matching.svg?branch=master)](https://travis-ci.org/AtlasOfLivingAustralia/ala-name-matching)
 # Atlas Name matching API 
 
